@@ -1,4 +1,5 @@
 # Server role
+- Consul
 - Scheduler
 - Internal API (Server <-> Client)
 - External API (Web interface + SABnzbd/NZBGet/CouchPotato integration)
@@ -7,6 +8,7 @@
 - Caching
 
 # Worker role
+- Consul
 - Internal API (Server <-> Client)
 - NNTP pulls
 - Processing/cleanup/info grapping
